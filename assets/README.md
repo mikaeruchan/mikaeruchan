@@ -1,7 +1,6 @@
-- [Facebook](https://facebook.com/netcutter.chn)
-- [Instagram](https://instagram.com/mikaeruchan)
-- [Twitter](https://twitter.com/mikaeruchann)
-- [Medium](https://medium.com/@mikaeru.chn)
-- [LinkedIn](https://www.linkedin.com/in/mikael-chandra/)
-- [Dribbble](https://dribbble.com/mikaeruchn/)
-
+- <img align="left" alt="MikaeruChan | Facebook" width="20px" src="https://raw.githubusercontent.com/mikaeruchan/mikaeruchan/main/assets/facebook.png" /> [Facebook](https://facebook.com/netcutter.chn)
+- <img align="left" alt="MikaeruChan | Facebook" width="20px" src="https://raw.githubusercontent.com/mikaeruchan/mikaeruchan/main/assets/instagram.png" /> [Instagram](https://instagram.com/mikaeruchan)
+- <img align="left" alt="MikaeruChan | Facebook" width="20px" src="https://raw.githubusercontent.com/mikaeruchan/mikaeruchan/main/assets/twitter.png" /> [Twitter](https://twitter.com/mikaeruchann)
+- <img align="left" alt="MikaeruChan | Facebook" width="20px" src="https://raw.githubusercontent.com/mikaeruchan/mikaeruchan/main/assets/medium.png" /> [Medium](https://medium.com/@mikaeru.chn)
+- <img align="left" alt="MikaeruChan | Facebook" width="20px" src="https://raw.githubusercontent.com/mikaeruchan/mikaeruchan/main/assets/linkedin.png" /> [LinkedIn](https://www.linkedin.com/in/mikael-chandra/)
+- <img align="left" alt="MikaeruChan | Facebook" width="20px" src="https://raw.githubusercontent.com/mikaeruchan/mikaeruchan/main/assets/dribbble.png" /> [Dribbble](https://dribbble.com/mikaeruchn/)
