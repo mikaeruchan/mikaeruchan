@@ -9,7 +9,7 @@
 <a href="https://twitter.com/mikaeruchann">
   <img align="left" alt="MikaeruChan | Twitter" width="21px" src="https://raw.githubusercontent.com/mikaeruchan/mikaeruchan/main/assets/twitter.png" />
 </a>
-<a href="https://medium.com/@mikaeru.chn">
+<a href="https://medium.com/@mikaeruchan">
   <img align="left" alt="MikaeruChan | Medium" width="21px" src="https://raw.githubusercontent.com/mikaeruchan/mikaeruchan/main/assets/medium.png" />
 </a>
 <a href="https://www.linkedin.com/in/mikael-chandra/">
