@@ -24,7 +24,7 @@
 
 Hello👋, I'm MikaeruChan or Mikael Chandra, a Web Designer and Web Developer from Indonesia.
 
-- :office: I’m currently working at [Codelabs](https://github.com/codelabsid) as a founder and creating something that is in my imagination.
+- :office: I’m currently working at [Cernation](https://github.com/cernation) as a founder and creating something that is in my imagination.
 - :books: I am currently focusing on exploring some programming related to the server backend.
 - :books: & :video_game: with :coffee: i love reading books and playing games with a cup of coffee
 - :speech_balloon: if there is a problem in my project or program or whatever it is you can ask me [here](https://twitter.com/mikaeruchann/)
